@@ -1,2 +1,6 @@
 In terms of Object-Oriented programming, modules are considered JS "classes".
 Public and Private access
+
+Revealing Module Pattern: A variation of the Module Design Pattern.
+Maintains encapsulation and reveals certain variables and methods returned in
+an object literal.
