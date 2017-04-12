@@ -1,0 +1,8 @@
+If an object is modified it broadcasts to dependent objects that a change has
+occurred.
+
+Model-view-controller is an example. When model changes, the view updates.
+
+Emitters
+
+Many observers can result in low performance (costly).
