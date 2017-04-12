@@ -1,0 +1,10 @@
+Used for crating objects in performance-intensive situations. Objects are
+cloned from a prototype object to increase performance.
+
+Basically, you start with a constructor object and add or subtract functions
+and variables to it. The constructor is a parent object.
+
+Revealing Prototype Pattern: Provides encapsulation with public and private
+members since it returns an object literal.
+
+It's a template.

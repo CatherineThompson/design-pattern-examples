@@ -4,3 +4,6 @@ Public and Private access
 Revealing Module Pattern: A variation of the Module Design Pattern.
 Maintains encapsulation and reveals certain variables and methods returned in
 an object literal.
+
+Can be difficult to unit test because there isn't a way to access/mock
+private variable and methods.
