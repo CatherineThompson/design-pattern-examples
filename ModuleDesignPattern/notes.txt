@@ -1,0 +1,2 @@
+In terms of Object-Oriented programming, modules are considered JS "classes".
+Public and Private access

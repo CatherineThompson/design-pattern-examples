@@ -1,0 +1,3 @@
+https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+http://shichuan.github.io/javascript-patterns/
